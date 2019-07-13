@@ -1,2 +1,3 @@
 # hello-world
-baby steps of my coding
+my baby steps of coding
+I don't know what to say and this is just the beginning.
